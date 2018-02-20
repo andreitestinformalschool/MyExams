@@ -1,0 +1,88 @@
+C:\Users\Oana\Desktop\NET\Ex curs\AppProject\MyExams\MyExams\bin\ApplicationInsights.config
+C:\Users\Oana\Desktop\NET\Ex curs\AppProject\MyExams\MyExams\bin\MyExams.dll.config
+C:\Users\Oana\Desktop\NET\Ex curs\AppProject\MyExams\MyExams\bin\MyExams.dll
+C:\Users\Oana\Desktop\NET\Ex curs\AppProject\MyExams\MyExams\bin\MyExams.pdb
+C:\Users\Oana\Desktop\NET\Ex curs\AppProject\MyExams\MyExams\bin\Antlr3.Runtime.dll
+C:\Users\Oana\Desktop\NET\Ex curs\AppProject\MyExams\MyExams\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Oana\Desktop\NET\Ex curs\AppProject\MyExams\MyExams\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Oana\Desktop\NET\Ex curs\AppProject\MyExams\MyExams\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Oana\Desktop\NET\Ex curs\AppProject\MyExams\MyExams\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Oana\Desktop\NET\Ex curs\AppProject\MyExams\MyExams\bin\Microsoft.AI.Web.dll
+C:\Users\Oana\Desktop\NET\Ex curs\AppProject\MyExams\MyExams\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Oana\Desktop\NET\Ex curs\AppProject\MyExams\MyExams\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Oana\Desktop\NET\Ex curs\AppProject\MyExams\MyExams\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Oana\Desktop\NET\Ex curs\AppProject\MyExams\MyExams\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Oana\Desktop\NET\Ex curs\AppProject\MyExams\MyExams\bin\Newtonsoft.Json.dll
+C:\Users\Oana\Desktop\NET\Ex curs\AppProject\MyExams\MyExams\bin\System.Web.Helpers.dll
+C:\Users\Oana\Desktop\NET\Ex curs\AppProject\MyExams\MyExams\bin\System.Web.Mvc.dll
+C:\Users\Oana\Desktop\NET\Ex curs\AppProject\MyExams\MyExams\bin\System.Web.Optimization.dll
+C:\Users\Oana\Desktop\NET\Ex curs\AppProject\MyExams\MyExams\bin\System.Web.Razor.dll
+C:\Users\Oana\Desktop\NET\Ex curs\AppProject\MyExams\MyExams\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Oana\Desktop\NET\Ex curs\AppProject\MyExams\MyExams\bin\System.Web.WebPages.dll
+C:\Users\Oana\Desktop\NET\Ex curs\AppProject\MyExams\MyExams\bin\System.Web.WebPages.Razor.dll
+C:\Users\Oana\Desktop\NET\Ex curs\AppProject\MyExams\MyExams\bin\WebGrease.dll
+C:\Users\Oana\Desktop\NET\Ex curs\AppProject\MyExams\MyExams\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Oana\Desktop\NET\Ex curs\AppProject\MyExams\MyExams\bin\System.Web.Helpers.xml
+C:\Users\Oana\Desktop\NET\Ex curs\AppProject\MyExams\MyExams\bin\System.Web.Mvc.xml
+C:\Users\Oana\Desktop\NET\Ex curs\AppProject\MyExams\MyExams\bin\System.Web.Optimization.xml
+C:\Users\Oana\Desktop\NET\Ex curs\AppProject\MyExams\MyExams\bin\System.Web.Razor.xml
+C:\Users\Oana\Desktop\NET\Ex curs\AppProject\MyExams\MyExams\bin\System.Web.WebPages.xml
+C:\Users\Oana\Desktop\NET\Ex curs\AppProject\MyExams\MyExams\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Oana\Desktop\NET\Ex curs\AppProject\MyExams\MyExams\bin\System.Web.WebPages.Razor.xml
+C:\Users\Oana\Desktop\NET\Ex curs\AppProject\MyExams\MyExams\bin\Antlr3.Runtime.pdb
+C:\Users\Oana\Desktop\NET\Ex curs\AppProject\MyExams\MyExams\bin\Newtonsoft.Json.xml
+C:\Users\Oana\Desktop\NET\Ex curs\AppProject\MyExams\MyExams\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Oana\Desktop\NET\Ex curs\AppProject\MyExams\MyExams\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Oana\Desktop\NET\Ex curs\AppProject\MyExams\MyExams\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Oana\Desktop\NET\Ex curs\AppProject\MyExams\MyExams\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Oana\Desktop\NET\Ex curs\AppProject\MyExams\MyExams\bin\Microsoft.AI.Web.xml
+C:\Users\Oana\Desktop\NET\Ex curs\AppProject\MyExams\MyExams\obj\Debug\MyExams.csprojResolveAssemblyReference.cache
+C:\Users\Oana\Desktop\NET\Ex curs\AppProject\MyExams\MyExams\obj\Debug\MyExams.csproj.CoreCompileInputs.cache
+C:\Users\Oana\Desktop\NET\Ex curs\AppProject\MyExams\MyExams\obj\Debug\MyExams.dll
+C:\Users\Oana\Desktop\NET\Ex curs\AppProject\MyExams\MyExams\obj\Debug\MyExams.pdb
+C:\Users\ANDREI\Downloads\MyExams\MyExams\MyExams\bin\ApplicationInsights.config
+C:\Users\ANDREI\Downloads\MyExams\MyExams\MyExams\bin\MyExams.dll.config
+C:\Users\ANDREI\Downloads\MyExams\MyExams\MyExams\bin\MyExams.dll
+C:\Users\ANDREI\Downloads\MyExams\MyExams\MyExams\bin\MyExams.pdb
+C:\Users\ANDREI\Downloads\MyExams\MyExams\MyExams\bin\Antlr3.Runtime.dll
+C:\Users\ANDREI\Downloads\MyExams\MyExams\MyExams\bin\EntityFramework.dll
+C:\Users\ANDREI\Downloads\MyExams\MyExams\MyExams\bin\EntityFramework.SqlServer.dll
+C:\Users\ANDREI\Downloads\MyExams\MyExams\MyExams\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ANDREI\Downloads\MyExams\MyExams\MyExams\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ANDREI\Downloads\MyExams\MyExams\MyExams\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ANDREI\Downloads\MyExams\MyExams\MyExams\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ANDREI\Downloads\MyExams\MyExams\MyExams\bin\Microsoft.AI.Web.dll
+C:\Users\ANDREI\Downloads\MyExams\MyExams\MyExams\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ANDREI\Downloads\MyExams\MyExams\MyExams\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ANDREI\Downloads\MyExams\MyExams\MyExams\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ANDREI\Downloads\MyExams\MyExams\MyExams\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ANDREI\Downloads\MyExams\MyExams\MyExams\bin\Newtonsoft.Json.dll
+C:\Users\ANDREI\Downloads\MyExams\MyExams\MyExams\bin\System.Web.Helpers.dll
+C:\Users\ANDREI\Downloads\MyExams\MyExams\MyExams\bin\System.Web.Mvc.dll
+C:\Users\ANDREI\Downloads\MyExams\MyExams\MyExams\bin\System.Web.Optimization.dll
+C:\Users\ANDREI\Downloads\MyExams\MyExams\MyExams\bin\System.Web.Razor.dll
+C:\Users\ANDREI\Downloads\MyExams\MyExams\MyExams\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ANDREI\Downloads\MyExams\MyExams\MyExams\bin\System.Web.WebPages.dll
+C:\Users\ANDREI\Downloads\MyExams\MyExams\MyExams\bin\System.Web.WebPages.Razor.dll
+C:\Users\ANDREI\Downloads\MyExams\MyExams\MyExams\bin\WebGrease.dll
+C:\Users\ANDREI\Downloads\MyExams\MyExams\MyExams\bin\EntityFramework.xml
+C:\Users\ANDREI\Downloads\MyExams\MyExams\MyExams\bin\EntityFramework.SqlServer.xml
+C:\Users\ANDREI\Downloads\MyExams\MyExams\MyExams\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ANDREI\Downloads\MyExams\MyExams\MyExams\bin\System.Web.Helpers.xml
+C:\Users\ANDREI\Downloads\MyExams\MyExams\MyExams\bin\System.Web.Mvc.xml
+C:\Users\ANDREI\Downloads\MyExams\MyExams\MyExams\bin\System.Web.Optimization.xml
+C:\Users\ANDREI\Downloads\MyExams\MyExams\MyExams\bin\System.Web.Razor.xml
+C:\Users\ANDREI\Downloads\MyExams\MyExams\MyExams\bin\System.Web.WebPages.xml
+C:\Users\ANDREI\Downloads\MyExams\MyExams\MyExams\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ANDREI\Downloads\MyExams\MyExams\MyExams\bin\System.Web.WebPages.Razor.xml
+C:\Users\ANDREI\Downloads\MyExams\MyExams\MyExams\bin\Antlr3.Runtime.pdb
+C:\Users\ANDREI\Downloads\MyExams\MyExams\MyExams\bin\Newtonsoft.Json.xml
+C:\Users\ANDREI\Downloads\MyExams\MyExams\MyExams\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ANDREI\Downloads\MyExams\MyExams\MyExams\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ANDREI\Downloads\MyExams\MyExams\MyExams\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ANDREI\Downloads\MyExams\MyExams\MyExams\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ANDREI\Downloads\MyExams\MyExams\MyExams\bin\Microsoft.AI.Web.xml
+C:\Users\ANDREI\Downloads\MyExams\MyExams\MyExams\obj\Debug\MyExams.csprojResolveAssemblyReference.cache
+C:\Users\ANDREI\Downloads\MyExams\MyExams\MyExams\obj\Debug\MyExams.csproj.CoreCompileInputs.cache
+C:\Users\ANDREI\Downloads\MyExams\MyExams\MyExams\obj\Debug\MyExams.dll
+C:\Users\ANDREI\Downloads\MyExams\MyExams\MyExams\obj\Debug\MyExams.pdb
